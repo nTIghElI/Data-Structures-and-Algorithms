@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net9.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net9.0": []
   },
   "packageFolders": {
     "C:\\Users\\thefo\\.nuget\\packages\\": {},
@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\Data-Structures-and-Algorithms\\Introductions_To_Data_Structures_&_Algorithms\\Introductions_To_Data_Structures_&_Algorithms.csproj",
-      "projectName": "Introductions_To_Data_Structures_&_Algorithms",
-      "projectPath": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\Data-Structures-and-Algorithms\\Introductions_To_Data_Structures_&_Algorithms\\Introductions_To_Data_Structures_&_Algorithms.csproj",
+      "projectUniqueName": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\DSA\\Week_1\\Big O\\Big O.csproj",
+      "projectName": "Big O",
+      "projectPath": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\DSA\\Week_1\\Big O\\Big O.csproj",
       "packagesPath": "C:\\Users\\thefo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\Data-Structures-and-Algorithms\\Introductions_To_Data_Structures_&_Algorithms\\obj\\",
+      "outputPath": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\DSA\\Week_1\\Big O\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -29,15 +29,15 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net9.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "projectReferences": {}
         }
       },
@@ -54,8 +54,8 @@
       "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net9.0": {
+        "targetAlias": "net9.0",
         "imports": [
           "net461",
           "net462",

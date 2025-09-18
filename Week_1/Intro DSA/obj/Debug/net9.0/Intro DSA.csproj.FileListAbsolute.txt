@@ -1,0 +1,14 @@
+C:\Users\thefo\OneDrive\Documents\GitHub\DSA\Week_1\Intro DSA\obj\Debug\net9.0\Intro DSA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thefo\OneDrive\Documents\GitHub\DSA\Week_1\Intro DSA\obj\Debug\net9.0\Intro DSA.AssemblyInfoInputs.cache
+C:\Users\thefo\OneDrive\Documents\GitHub\DSA\Week_1\Intro DSA\obj\Debug\net9.0\Intro DSA.AssemblyInfo.cs
+C:\Users\thefo\OneDrive\Documents\GitHub\DSA\Week_1\Intro DSA\obj\Debug\net9.0\Intro DSA.csproj.CoreCompileInputs.cache
+C:\Users\thefo\OneDrive\Documents\GitHub\DSA\Week_1\Intro DSA\bin\Debug\net9.0\Intro DSA.exe
+C:\Users\thefo\OneDrive\Documents\GitHub\DSA\Week_1\Intro DSA\bin\Debug\net9.0\Intro DSA.deps.json
+C:\Users\thefo\OneDrive\Documents\GitHub\DSA\Week_1\Intro DSA\bin\Debug\net9.0\Intro DSA.runtimeconfig.json
+C:\Users\thefo\OneDrive\Documents\GitHub\DSA\Week_1\Intro DSA\bin\Debug\net9.0\Intro DSA.dll
+C:\Users\thefo\OneDrive\Documents\GitHub\DSA\Week_1\Intro DSA\bin\Debug\net9.0\Intro DSA.pdb
+C:\Users\thefo\OneDrive\Documents\GitHub\DSA\Week_1\Intro DSA\obj\Debug\net9.0\Intro DSA.dll
+C:\Users\thefo\OneDrive\Documents\GitHub\DSA\Week_1\Intro DSA\obj\Debug\net9.0\refint\Intro DSA.dll
+C:\Users\thefo\OneDrive\Documents\GitHub\DSA\Week_1\Intro DSA\obj\Debug\net9.0\Intro DSA.pdb
+C:\Users\thefo\OneDrive\Documents\GitHub\DSA\Week_1\Intro DSA\obj\Debug\net9.0\Intro DSA.genruntimeconfig.cache
+C:\Users\thefo\OneDrive\Documents\GitHub\DSA\Week_1\Intro DSA\obj\Debug\net9.0\ref\Intro DSA.dll
