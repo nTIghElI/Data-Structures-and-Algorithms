@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "oFXv/blIZ8w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\Data-Structures-and-Algorithms\\Week_1\\Redis_SQL_Cache\\Redis_SQL_Cache.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thefo\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.9\\microsoft.extensions.caching.abstractions.9.0.9.nupkg.sha512",
+    "C:\\Users\\thefo\\.nuget\\packages\\microsoft.extensions.caching.stackexchangeredis\\9.0.9\\microsoft.extensions.caching.stackexchangeredis.9.0.9.nupkg.sha512",
+    "C:\\Users\\thefo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512",
+    "C:\\Users\\thefo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.9\\microsoft.extensions.logging.abstractions.9.0.9.nupkg.sha512",
+    "C:\\Users\\thefo\\.nuget\\packages\\microsoft.extensions.options\\9.0.9\\microsoft.extensions.options.9.0.9.nupkg.sha512",
+    "C:\\Users\\thefo\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.9\\microsoft.extensions.primitives.9.0.9.nupkg.sha512",
+    "C:\\Users\\thefo\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\thefo\\.nuget\\packages\\stackexchange.redis\\2.7.27\\stackexchange.redis.2.7.27.nupkg.sha512",
+    "C:\\Users\\thefo\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.9\\system.diagnostics.diagnosticsource.9.0.9.nupkg.sha512",
+    "C:\\Users\\thefo\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

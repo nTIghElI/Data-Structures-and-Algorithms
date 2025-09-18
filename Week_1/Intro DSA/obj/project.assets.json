@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\DSA\\Week_1\\Intro DSA\\Intro DSA.csproj",
+      "projectUniqueName": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\Data-Structures-and-Algorithms\\Week_1\\Intro DSA\\Intro DSA.csproj",
       "projectName": "Intro DSA",
-      "projectPath": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\DSA\\Week_1\\Intro DSA\\Intro DSA.csproj",
+      "projectPath": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\Data-Structures-and-Algorithms\\Week_1\\Intro DSA\\Intro DSA.csproj",
       "packagesPath": "C:\\Users\\thefo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\DSA\\Week_1\\Intro DSA\\obj\\",
+      "outputPath": "C:\\Users\\thefo\\OneDrive\\Documents\\GitHub\\Data-Structures-and-Algorithms\\Week_1\\Intro DSA\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
